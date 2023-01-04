@@ -21,12 +21,13 @@ console.log(india)
 console.log(greetings("argentina messi"))
 
 
-tipp(3)
+console.log(tipp(3))
 function tipp(a){
-  let bill=parseInt(a);
-  
-  console.log(bill);
-  console.log(bill+23);
+  //let bill=parseInt(a);
+  let bill=Number(a)
+  return bill
+  // console.log(bill);
+  // console.log(bill+23);
 }
 
 
