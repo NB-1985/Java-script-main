@@ -10,6 +10,8 @@ let b=()=>{
 }
 b()
 
+
+// if loop
 let i=19;
 if(i<10){
     
