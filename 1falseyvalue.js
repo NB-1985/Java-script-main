@@ -1,4 +1,4 @@
-let user=0
+let user=1  
 if (user) {
     console.log("you are user")
     
