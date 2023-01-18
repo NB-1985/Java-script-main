@@ -10,4 +10,3 @@ fetch("https://reqres.in/api/user")
 })
 .catch();
 
-
