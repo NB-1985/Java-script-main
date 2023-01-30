@@ -12,5 +12,5 @@ age=parseInt(age)
 if(age>=18){
     console.log("you are above 18") }
     else{
-        console.log("you are not abouve 18")
+        console.log("you are not above 18")
     }
